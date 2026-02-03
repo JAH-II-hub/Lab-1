@@ -22,3 +22,4 @@ The lab was divided into four main parts, each having their own dedicated git br
 The codes in this lab can be tested in the browser console in a new private/incognito tab.
 
 # Youtube video link:
+https://youtu.be/KToITdWFuYc
